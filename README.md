@@ -1,4 +1,8 @@
-# Adapters
+Multiple chains stellar,solana
+
+On PowerShell chain
+
+Swap 2026-10-13 "stellar,solana Adapters
 
 Find the instructions to list, write, test and submit an adapter [here](https://docs.llama.fi/list-your-project/other-dashboards)
 
@@ -26,7 +30,7 @@ On PowerShell, quote the chain list so the comma is not treated as an argument s
 
 ## Adding custom RPC URLs
 
-Create an `.env` file and add custom RPC URLs using the `{CHAIN}_RPC` format (use uppercase chain name):
+Create an `.env` file and add custom RPC URLs using the `{CHAIN}_RPC` format (use uppercase chain name):ETH_Solana_USDT
 
 ```
 ETHEREUM_RPC="https://yourcustomrpc.com"
